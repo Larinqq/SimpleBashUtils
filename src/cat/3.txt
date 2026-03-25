@@ -1,0 +1,20 @@
+1.txt
+2.txt
+
+nik
+rik 
+230123091203
+213123123
+2 RIK+ ++ 
+++
+09+
+Hello world!
+This is a test file for grep and cat utilities.
+Line with numbers: 1234567890
+Special characters: !@#$%^&*()_+-=[]{}|;':",./<>?
+Empty line follows:
+
+Line after empty line
+Tab character ->	<- here
+Multiple    spaces
+Last line without newline
