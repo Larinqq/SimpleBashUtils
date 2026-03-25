@@ -1,0 +1,17 @@
+
+sad
+asddaad 
+agfgre 
+nik
+nik RIK
+asdasdasdad
+Hello world!
+This is a tes t file for grep and cat utilities.gjdsksidl ___
+Line with nu   mbers: 1234567890
+Special characters: !@#$%^&*()_+-=[]{}|;':",./<>?
+Empty line follows:
+
+Line after empty line
+Tab character ->	<- here
+Multiple    spaces
+Last line without newline
